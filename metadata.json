@@ -1,0 +1,5 @@
+{
+  "name": "TCP TuneAI",
+  "description": "A smart TCP parameter calculator that computes optimal buffer sizes based on BDP (Bandwidth-Delay Product) and uses Gemini to offer system tuning insights.",
+  "requestFramePermissions": []
+}
